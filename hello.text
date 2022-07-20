@@ -6,5 +6,7 @@ hello git 4353
 hello git 4353
 hello git 4353
 hello git 4353
+<<<<<<< HEAD
 hello git 4353  master hh
-hello git 4353
+hello git 4353 hot-fix
+>>>>>>> hot-fix
